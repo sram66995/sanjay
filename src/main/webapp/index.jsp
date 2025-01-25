@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
 <head>
-    <title>Home Page</title>
+    <title>Home Page</title> 
 	<link rel="shortcut icon" href="images/favicon.ico" type="image/x-icon">
     <style>
         body {
