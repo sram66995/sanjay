@@ -60,4 +60,4 @@ jobs:
           app-name: 'appplication'
           slot-name: 'stagingslot'
           package: '*.war'
-          
+           
