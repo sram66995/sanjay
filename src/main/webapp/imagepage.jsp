@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
 <head>
-    <title>Image Page</title>
+    <title>tjis Page</title>
 </head>
 <body>
     <h2>This is the Page</h2>
